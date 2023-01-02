@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="kor">
-    <head>
-        <meta charset="UTF-8">
-        <link rel="stylesheet" href="./style.css">
-        <style>
-            body {
+body {
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -32,9 +26,3 @@
     background-color: black;
     color: white;
 }
-        </style>
-    </head>
-</html>
-<body>
-    <button class="btn">YOU</button>
-</body>
